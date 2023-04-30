@@ -1,5 +1,7 @@
 <h1 align="center"> Portafolio web </h1>
-[Portafolio web](https://github.com/JimmyMunoz17/skeleton_portfolio_web/blob/main/assets/img_readme/PortafolioWeb.png)
+
+![Portafolio web](https://github.com/JimmyMunoz17/skeleton_portfolio_web/blob/main/assets/img_readme/PortafolioWeb.png)
+
 <p align="center">
    <a href="https://644db86a91193572f50d3779--frabjous-kashata-df1b24.netlify.app/#/home"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Portafolio web"</a>
 </p>
