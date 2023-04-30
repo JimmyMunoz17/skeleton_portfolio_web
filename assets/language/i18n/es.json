@@ -1,0 +1,84 @@
+{
+    "Menu":[
+        {
+            "Item1":"Home",
+            "Item2":"Sobre mí",
+            "Item3":"Habilidades",
+            "Item4":"Formación",
+            "Item5":"Proyectos",
+            "Item6":"Contacto"
+        }
+    ],
+    "Home":[
+        {
+            "Title": "Hola!! Soy",
+            "Subtitle": "Mensaje",
+            "Message": "Mensaje",
+            "Botton1": "VISUALIZAR CV",
+            "Botton2": "CONTACTO"
+        }
+    ],
+    "AboutMe":[
+        {
+            "Title": "Sobre mí",
+            "Message1":"\nMessage 1\n",
+            "Message2":"\nMessage 2"
+        }
+    ],
+    "Skill":[
+        {
+            "Title": "Habilidades"
+        }
+    ],
+    "Training":[
+        {
+            "Title": "Formación",
+            "CardName1":"Estudios 1",
+            "CardName2":"Estudios 2"
+        }
+    ],
+    "Proyect":[
+        {
+            "Title": "Proyectos",
+            "Botton1": "Web",
+            "Botton2": "Móvil",
+            "Botton3": "AR/Videojuegos",
+            "ProyectWeb1": [
+                {
+                    "Name":"Nombre proyecto",
+                    "Description":"Proyecto desarrollado con las tecnologías"
+                }
+            ],
+            "ProyectMobile1": [
+                {
+                    "Name":"Nombre proyecto",
+                    "Description":"Proyecto desarrollado con las tecnologías"
+                }
+            ],
+            "ProyectARV1": [
+                {
+                    "Name":"Nombre proyecto",
+                    "Description":"Proyecto desarrollado con las tecnologías"
+                }
+            ],
+            "ProyectARV2": [
+                {
+                    "Name":"Nombre proyecto",
+                    "Description":"Proyecto desarrollado con las tecnologías"
+                }
+            ]
+        
+        }
+    ],
+    "Contact":[
+        {
+            "Title": "Contacto",
+            "Message":"Mensaje",
+            "Button":"Enviar",
+            "AlertText": "Datos enviados",
+            "Alert": "Mensaje"
+
+        }
+    ]
+    
+}

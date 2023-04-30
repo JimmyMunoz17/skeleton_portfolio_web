@@ -1,0 +1,82 @@
+{
+    "Menu":[
+        {
+            "Item1":"Home",
+            "Item2":"About me",
+            "Item3":"Skills",
+            "Item4":"Training",
+            "Item5":"Projects",
+            "Item6":"Contact"
+        }
+    ],
+    "Home":[
+        {
+            "Title": "Hi, I am",
+            "Subtitle": "Message",
+            "Message": "Message",
+            "Botton1": "VIEW CV",
+            "Botton2": "CONTACT"
+        }
+    ],
+    "AboutMe":[
+        {
+            "Title": "About me",
+            "Message1":"\nMessage 1\n",
+            "Message2":"\nMessage 2"
+        }
+    ],
+    "Skill":[
+        {
+            "Title": "Skills"
+        }
+    ],
+    "Training":[
+        {
+            "Title": "Training",
+            "CardName1":"Studies 1",
+            "CardName2":"Studies 2"
+        }
+    ],
+    "Proyect":[
+        {
+            "Title": "Projects",
+            "Botton1": "Web",
+            "Botton2": "Mobile",
+            "Botton3": "AR/VideoGames",
+            "ProyectWeb1": [
+                {
+                    "Name":"Project name",
+                    "Description":"Project developed with the following technologies"
+                }
+            ],
+            "ProyectMobile1": [
+                {
+                    "Name":"Project name",
+                    "Description":"Project developed with the following technologies"
+                }
+            ],
+            "ProyectARV1": [
+                {
+                    "Name":"Project name",
+                    "Description":"Project developed with the following technologies"
+                }
+            ],
+            "ProyectARV2": [
+                {
+                    "Name":"Project name",
+                    "Description":"Project developed with the following technologies"
+                }
+            ]
+        
+        }
+    ],
+    "Contact":[
+        {
+            "Title": "Contact",
+            "Message":"Message",
+            "Button":"Send",
+            "AlertText": "Data sent",
+            "Alert": "Message"
+        }
+    ]
+}
