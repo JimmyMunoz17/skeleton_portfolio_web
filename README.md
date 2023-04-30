@@ -38,7 +38,7 @@
 
 - Flutter
 - Dart
-- 
+
 <h2>:information_desk_person: Autor</h2>
 
 - [Jimmy Muñoz](https://github.com/JimmyMunoz17)
