@@ -30,9 +30,9 @@
 
 <h2>:file_folder: Acceso al proyecto</h2>
 
-- Previamente instalado [Flutter SDK 3.7.12](https://docs.flutter.dev/get-started/install)
+- Instalado [Flutter SDK 3.7.12](https://docs.flutter.dev/get-started/install)
 - Descargue el repositorio y actualice las dependencias con el comando: :point_right: flutter pub get :point_left:
-- Uso de la API Google Sheet en el view contact, modifique la variable _credentials en la carpeta api, con las credenciales de [Google Cloud Platform](https://cloud.google.com)
+- Uso de la API Google Sheet en el :open_file_folder: view contact, modifique la variable _credentials en la :open_file_folder: carpeta api, con las credenciales de [Google Cloud Platform](https://cloud.google.com)
 
 <h2>🛠️ Tecnología</h2>
 
@@ -42,4 +42,5 @@
 <h2>:information_desk_person: Autor</h2>
 
 - [Jimmy Muñoz](https://github.com/JimmyMunoz17)
+
 ![GitHub Org's stars](https://img.shields.io/github/stars/jimmyMunoz17?style=social)
